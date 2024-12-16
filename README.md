@@ -5,7 +5,7 @@
 
 ## What I Do:
 
-- 🎨 **3D Modeling**: Created a Pokémon model and self-insert anime character. Ash and Goku are quaking (still not sure why my cube keeps disappearing).
+- 🎨 **3D Modeling**: Created a Pokémon model. Ash and Goku are quaking (still not sure why my cube keeps disappearing).
 - 📱 **App Dev**: Built the "IPlay" app for IP awareness. Who knew Intellectual Property could be… fun? Also, built some apps with Flutter (they work… most of the time).
 - 🎥 **Animation**: Brought lessons to life with animations. Disney still hasn’t called, but hey, Pixar might!
 - 🌐 **Web Development**: Built a website—don’t ask about the design choices; they’re "unique."

@@ -28,11 +28,11 @@
   **Goal:** Break things securely, fix things securely.
 
 ## My Projects:
-🛠️ From **Foodify** to **IPlay**, I’ve got scattered projects across every field imaginable because curiosity has no chill.
+🛠️ Scattered across every field imaginable because curiosity has no chill.
 
 ## Skills:
 🧠 Expert at Googling, average at everything else.  
-🌟 **Hobbies**: Breaking things just to call it “debugging.”
+🌟 **Hobbies**: Breaking stuff just to fix it and calling it “debugging.”
 
 ## Philosophy:
 💡 Always learning, always creating, always making tech bend to my will or burst into flames.

@@ -9,10 +9,6 @@
   I design apps because someone has to make them look good while they break! I’ve worked on projects like **"Foodify"** (a food delivery app more reliable than my cooking) and **"IPlay"** (an app to make Intellectual Property fun). Tools of choice: Figma, coffee, and lots of tweaking.  
   **Rule:** If it’s not intuitive, it’s not done.
 
-- 🔒 **Cybersecurity**:  
-  Currently learning to hack *legally* and protect systems from evil. My mission? To outsmart the hackers before they outsmart us—starting with my own disappearing Blender cubes. Pentesting, encryption, network security, you name it, I’m on it.  
-  **Goal:** Break things securely, fix things securely.
-
 - 📱 **App Development**:  
   Built the **"IPlay"** app for IP awareness (who knew IP could be fun?), and played around with Flutter for other apps. They work… most of the time.  
   **Motto:** If it doesn’t crash, it’s an upgrade!
@@ -24,6 +20,10 @@
 - 🌐 **Web Development**:  
   Built a website once. Don’t ask about the design choices; they were “unique.”  
   **Philosophy:** If it works, it’s perfect.
+
+- 🔒 **Cybersecurity**:  
+  Currently learning to hack *legally* and protect systems from evil. My mission? To outsmart the hackers before they outsmart us—starting with my own disappearing Blender cubes. Pentesting, encryption, network security, you name it, I’m on it.  
+  **Goal:** Break things securely, fix things securely.
 
 ## My Projects:
 🛠️ From **Foodify** to **IPlay**, I’ve got scattered projects across every field imaginable because curiosity has no chill.

@@ -5,21 +5,23 @@
 
 ## What I Do:
 
-- 🎨 **UI/UX Design**:  
-  I design apps because someone has to make them look good while they break! I’ve worked on projects like **"Foodify"** (a food delivery app more reliable than my cooking) and **"IPlay"** (an app to make Intellectual Property fun). Tools of choice: Figma, coffee, and lots of tweaking.  
-  **Rule:** If it’s not intuitive, it’s not done.
-
-- 📱 **App Development**:  
-  Built the **"IPlay"** app for IP awareness (who knew IP could be fun?), and played around with Flutter for other apps. They work… most of the time.  
-  **Motto:** If it doesn’t crash, it’s an upgrade!
+- 🎨 **3D Modeling**: Created a Pokémon model. Ash and Goku are quaking (still not sure why my cube keeps disappearing).
 
 - 🎥 **Animation**:  
   Bringing lessons to life one animation at a time. Disney hasn’t called yet, but I’m ready when they do.  
   **Ambition:** Make learning as fun as watching cartoons.
 
+- 📱 **App Development**:  
+  Built the **"IPlay"** app for IP awareness (who knew IP could be fun?), and played around with Flutter for other apps. They work… most of the time.  
+  **Motto:** If it doesn’t crash, it’s an upgrade!
+
 - 🌐 **Web Development**:  
   Built a website once. Don’t ask about the design choices; they were “unique.”  
   **Philosophy:** If it works, it’s perfect.
+  
+- 🎨 **UI/UX Design**:  
+  I design apps because someone has to make them look good while they break! I’ve worked on projects like **"Foodify"** (a food delivery app more reliable than my cooking) and **"IPlay"** (an app to make Intellectual Property fun). Tools of choice: Figma, coffee, and lots of tweaking.  
+  **Rule:** If it’s not intuitive, it’s not done.
 
 - 🔒 **Cybersecurity**:  
   Currently learning to hack *legally* and protect systems from evil. My mission? To outsmart the hackers before they outsmart us—starting with my own disappearing Blender cubes. Pentesting, encryption, network security, you name it, I’m on it.  

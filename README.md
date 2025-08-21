@@ -9,7 +9,7 @@
 - 📱 **App Development**: Built the **"IPlay"** app for IP awareness (who knew IP could be fun?), and played around with Flutter for other apps.
 - 🌐 **Web Development**: Built a website once. Don't ask about the design choices; they were "unique."
 - 🎨 **UI/UX Design**: I design apps because someone has to make them look good while they break! Tools of choice: Figma, coffee, and lots of tweaking.
-- �� **Cybersecurity**: Currently learning to hack *legally* and protect systems from evil. Pentesting, encryption, network security, you name it, I'm on it.
+- 🛡️ **Cybersecurity**: Currently learning to hack *legally* and protect systems from evil. Pentesting, encryption, network security, you name it, I'm on it.
 
 ## 🛠️ Tech Stack:
 
@@ -34,7 +34,7 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### �� **Cybersecurity**
+### 🛡️ **Cybersecurity**
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-FF6B35?style=for-the-badge&logo=nmap&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-FF6B35?style=for-the-badge&logo=metasploit&logoColor=white)
@@ -45,7 +45,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-### ��️ **Tools**
+### 🛠️ **Tools**
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
@@ -61,7 +61,7 @@
   <img src="https://komarev.com/ghpvc/?username=PushkarPisolkar04&style=flat-square&color=FF6B35" alt="Profile Views" />
 </div>
 
-## �� Connect With Me:
+## 🌱 Connect With Me:
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=todoist&logoColor=white)](https://whois-pushkar.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pushkar-pisolkar)
@@ -70,14 +70,18 @@
 
 ## 🎯 Currently Working On:
 
-- 🔐 **Cybersecurity Intern** at Sure Trust ProEd
 - 🎓 **Final Year Computer Engineering Student**
-- �� **Building Cryptonix** - Advanced vulnerability scanner
+- 🛡️ **Building Cryptonix** - Advanced vulnerability scanner
 - ☁️ **Learning AWS Cloud Services**
 
 ## 💡 Philosophy:
 
 💡 Always learning, always creating, always making tech bend to my will or burst into flames.
 
-�� If it's tech, I've tried it. If it's not, I'm probably downloading a tutorial right now.  
+🌟 If it's tech, I've tried it. If it's not, I'm probably downloading a tutorial right now.  
 Let's build, laugh, and cry over broken code (and *very* secure systems) together!
+
+---
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=PushkarPisolkar04&style=flat-square&color=FF6B35" alt="Profile Views" />
+</div>

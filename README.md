@@ -7,7 +7,7 @@
 
 - 🎨 **3D Modeling**: Created a Pokémon model. Ash and Goku are quaking (still not sure why my cube keeps disappearing).
 
-- �� **Animation**:  
+- 🎬 **Animation**:  
   Bringing lessons to life one animation at a time. Disney hasn't called yet, but I'm ready when they do.  
   **Ambition:** Make learning as fun as watching cartoons.
 
@@ -23,38 +23,11 @@
   I design apps because someone has to make them look good while they break! I've worked on projects like **"Foodify"** (a food delivery app more reliable than my cooking) and **"IPlay"** (an app to make Intellectual Property fun). Tools of choice: Figma, coffee, and lots of tweaking.  
   **Rule:** If it's not intuitive, it's not done.
 
-- �� **Cybersecurity**:  
+- 🛡️ **Cybersecurity**:  
   Currently learning to hack *legally* and protect systems from evil. My mission? To outsmart the hackers before they outsmart us—starting with my own disappearing Blender cubes. Pentesting, encryption, network security, you name it, I'm on it.  
   **Goal:** Break things securely, fix things securely.
 
-## ��️ My Projects:
-
-### 🔐 **Cryptonix** - Vulnerability Scanner & Penetration Testing Tool
-*In Progress* | Python, Nmap, Burp Suite, Shodan, Exploit-DB
-> Command-line toolkit for security professionals. Automates vulnerability discovery and assessment.
-
-[![GitHub](https://img.shields.io/badge/GitHub-View%20Project-black?style=for-the-badge&logo=github)](https://github.com/PushkarPisolkar04/cryptonix)
-
-### 🗳️ **eMatdaan** - Secure Organizational Voting Platform
-React.js, TypeScript, Node.js, Express.js, Supabase, TailwindCSS
-> Full-stack digital voting platform with end-to-end encryption and complete voter anonymity.
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Project-green?style=for-the-badge&logo=vercel)](https://ematdaan.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-View%20Project-black?style=for-the-badge&logo=github)](https://github.com/PushkarPisolkar04/ematdaan)
-
-### 🎮 **IPlay** - Gamified IPR Awareness Application
-Flutter, Dart, Firebase
-> Award-winning mobile app with 7 interactive games for IPR learning.
-
-[![GitHub](https://img.shields.io/badge/GitHub-View%20Project-black?style=for-the-badge&logo=github)](https://github.com/PushkarPisolkar04/iplay)
-
-### 🔄 **ByteMe** - Universal Data Converter
-React.js, Node.js, Express.js, Vite
-> 60+ different data formats and number systems converter with real-time conversion.
-
-[![GitHub](https://img.shields.io/badge/GitHub-View%20Project-black?style=for-the-badge&logo=github)](https://github.com/PushkarPisolkar04/ByteMe)
-
-## �� Skills:
+## 🛠️ Tech Stack:
 
 ### 🎯 **Programming Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -77,9 +50,9 @@ React.js, Node.js, Express.js, Vite
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### �� **Cybersecurity**
+### 🛡️ **Cybersecurity**
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6B35?style=for-the-badge&logo=burp-suite&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-FF6B35?style=for-the-badge&logo=nmap&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-FF6B35?style=for-the-badge&logo=metasploit&logoColor=white)
 
 ### ☁️ **Cloud & DevOps**
@@ -88,7 +61,7 @@ React.js, Node.js, Express.js, Vite
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-### ��️ **Tools**
+### 🛠️ **Tools**
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
@@ -100,36 +73,25 @@ React.js, Node.js, Express.js, Vite
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=PushkarPisolkar04&theme=radical&hide_border=true&background=0D1117&stroke=FF6B35&ring=00FF88&fire=FF6B35&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF)
 
-## 🏆 Achievements:
-
-- �� **Gold Medalist (Zonal) – Aavishkar** - State-level innovation competition (2024)
-- 🏆 **Semi-Finalist – Flipkart Grid 6.0** - National software development hackathon (2024)
-- 🎯 **100/100 in CBSE Class 10 Mathematics** (2020)
-
-## 🎓 Education:
-
-- **B.Tech in Computer Engineering** - Bajaj Institute of Technology, Wardha (2022-2026)
-- **CGPA:** 7.23 | **Focus:** Cybersecurity
-
-## �� Connect With Me:
+## 🌱 Connect With Me:
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=todoist&logoColor=white)](https://whois-pushkar.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pushkar-pisolkar)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PushkarPisolkar04)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pushkarppisolkar@gmail.com)
 
-## 🎯 Current Focus:
+## 🎯 Currently Working On:
 
-- 🔐 **Cybersecurity Intern** at Sure Trust ProEd (Dec 2024 – June 2025)
+
 - 🎓 **Final Year Computer Engineering Student**
-- �� **Building Cryptonix** - Advanced vulnerability scanner
+- 🛡️ **Building Cryptonix** - Advanced vulnerability scanner
 - ☁️ **Learning AWS Cloud Services**
 
 ## 💡 Philosophy:
 
 💡 Always learning, always creating, always making tech bend to my will or burst into flames.
 
-�� If it's tech, I've tried it. If it's not, I'm probably downloading a tutorial right now.  
+🌟 If it's tech, I've tried it. If it's not, I'm probably downloading a tutorial right now.  
 Let's build, laugh, and cry over broken code (and *very* secure systems) together!
 
 ---
